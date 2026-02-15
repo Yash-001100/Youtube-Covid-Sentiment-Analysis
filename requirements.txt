@@ -1,0 +1,10 @@
+pandas
+seaborn
+matplotlib
+google-api-python-client
+nltk
+langdetect
+textblob
+prettytable
+tabulate
+numpy
